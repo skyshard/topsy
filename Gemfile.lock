@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     topsy (0.5.1)
-      hashie (~> 1.2.0)
+      hashie (>= 1.2.0)
       httparty (>= 0.8.1)
 
 GEM
